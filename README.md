@@ -4,8 +4,6 @@ A Machine Learning web application that predicts diabetes risk based on health p
 
 ## 🚀 Live Demo
 
-## 🚀 Live Demo
-
 🔗 https://diabetes-prediction-anam.streamlit.app/
 
 ## 📌 Features
