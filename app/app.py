@@ -102,9 +102,8 @@ font-weight: bold !important;
 
 # Load Model
 
-model = pickle.load(
-open('D:/Diabetes_Prediction/models/diabetes_model.pkl', 'rb')
-)
+with open("models/diabetes_model.pkl", "rb") as file:
+    model = pickle.load(file)
 
 # Title
 
